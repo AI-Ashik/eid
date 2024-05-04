@@ -1,4 +1,4 @@
-const eidulfitr = "02 May 2022 "
+const eidulfitr = "30 May 2024 "
 const daysDiv=document.getElementById("days");
 const hoursDiv=document.getElementById("hours");
 const minsDiv=document.getElementById("mins");
